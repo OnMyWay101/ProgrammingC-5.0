@@ -1,1 +1,7 @@
 G:\study\C#\ProgrammingC-5.0\Practices\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\StudySource\FromGitHub\ProgrammingC-5.0\Practices\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\StudySource\FromGitHub\ProgrammingC-5.0\Practices\HelloWorld\bin\Debug\HelloWorld.exe
+D:\StudySource\FromGitHub\ProgrammingC-5.0\Practices\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\StudySource\FromGitHub\ProgrammingC-5.0\Practices\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\StudySource\FromGitHub\ProgrammingC-5.0\Practices\HelloWorld\obj\Debug\HelloWorld.exe
+D:\StudySource\FromGitHub\ProgrammingC-5.0\Practices\HelloWorld\obj\Debug\HelloWorld.pdb
