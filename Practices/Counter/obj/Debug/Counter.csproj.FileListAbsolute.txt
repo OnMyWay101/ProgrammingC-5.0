@@ -4,3 +4,9 @@ D:\StudySource\FromGitHub\ProgrammingC-5.0\Practices\Counter\bin\Debug\Counter.p
 D:\StudySource\FromGitHub\ProgrammingC-5.0\Practices\Counter\obj\Debug\Counter.csprojResolveAssemblyReference.cache
 D:\StudySource\FromGitHub\ProgrammingC-5.0\Practices\Counter\obj\Debug\Counter.exe
 D:\StudySource\FromGitHub\ProgrammingC-5.0\Practices\Counter\obj\Debug\Counter.pdb
+G:\study\C#\ProgrammingC-5.0\Practices\Counter\bin\Debug\Counter.exe.config
+G:\study\C#\ProgrammingC-5.0\Practices\Counter\obj\Debug\Counter.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Counter\obj\Debug\Counter.pdb
+G:\study\C#\ProgrammingC-5.0\Practices\Counter\bin\Debug\Counter.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Counter\bin\Debug\Counter.pdb
+G:\study\C#\ProgrammingC-5.0\Practices\Counter\obj\Debug\Counter.csprojResolveAssemblyReference.cache
