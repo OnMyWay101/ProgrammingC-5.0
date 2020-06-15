@@ -70,7 +70,10 @@ namespace Counter
             Console.WriteLine(object.ReferenceEquals(c1, c3));
             Console.WriteLine(object.ReferenceEquals(c2, c3));
             Console.WriteLine(object.ReferenceEquals(c1, c1));
-
+            if(c1 == c2)
+            {
+                Console.WriteLine("Just a test for 'if'");
+            }
             Console.ReadLine();
             return;
         }

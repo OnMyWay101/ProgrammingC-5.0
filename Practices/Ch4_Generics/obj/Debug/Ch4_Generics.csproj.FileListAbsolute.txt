@@ -1,0 +1,6 @@
+G:\study\C#\ProgrammingC-5.0\Practices\Ch4_Generics\bin\Debug\Ch4_Generics.exe.config
+G:\study\C#\ProgrammingC-5.0\Practices\Ch4_Generics\bin\Debug\Ch4_Generics.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Ch4_Generics\bin\Debug\Ch4_Generics.pdb
+G:\study\C#\ProgrammingC-5.0\Practices\Ch4_Generics\obj\Debug\Ch4_Generics.csprojResolveAssemblyReference.cache
+G:\study\C#\ProgrammingC-5.0\Practices\Ch4_Generics\obj\Debug\Ch4_Generics.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Ch4_Generics\obj\Debug\Ch4_Generics.pdb
