@@ -1,0 +1,6 @@
+G:\study\C#\ProgrammingC-5.0\Practices\Ch5_Collections\bin\Debug\Ch5_Collections.exe.config
+G:\study\C#\ProgrammingC-5.0\Practices\Ch5_Collections\bin\Debug\Ch5_Collections.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Ch5_Collections\bin\Debug\Ch5_Collections.pdb
+G:\study\C#\ProgrammingC-5.0\Practices\Ch5_Collections\obj\Debug\Ch5_Collections.csprojResolveAssemblyReference.cache
+G:\study\C#\ProgrammingC-5.0\Practices\Ch5_Collections\obj\Debug\Ch5_Collections.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Ch5_Collections\obj\Debug\Ch5_Collections.pdb

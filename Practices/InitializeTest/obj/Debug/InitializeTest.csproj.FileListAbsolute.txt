@@ -1,0 +1,6 @@
+G:\study\C#\ProgrammingC-5.0\Practices\InitializeTest\bin\Debug\InitializeTest.exe.config
+G:\study\C#\ProgrammingC-5.0\Practices\InitializeTest\bin\Debug\InitializeTest.exe
+G:\study\C#\ProgrammingC-5.0\Practices\InitializeTest\bin\Debug\InitializeTest.pdb
+G:\study\C#\ProgrammingC-5.0\Practices\InitializeTest\obj\Debug\InitializeTest.csprojResolveAssemblyReference.cache
+G:\study\C#\ProgrammingC-5.0\Practices\InitializeTest\obj\Debug\InitializeTest.exe
+G:\study\C#\ProgrammingC-5.0\Practices\InitializeTest\obj\Debug\InitializeTest.pdb

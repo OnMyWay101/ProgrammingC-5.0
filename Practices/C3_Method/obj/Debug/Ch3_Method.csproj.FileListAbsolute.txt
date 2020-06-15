@@ -1,0 +1,6 @@
+G:\study\C#\ProgrammingC-5.0\Practices\C3_Method\bin\Debug\C3_Method.exe.config
+G:\study\C#\ProgrammingC-5.0\Practices\C3_Method\obj\Debug\C3_Method.exe
+G:\study\C#\ProgrammingC-5.0\Practices\C3_Method\obj\Debug\C3_Method.pdb
+G:\study\C#\ProgrammingC-5.0\Practices\C3_Method\bin\Debug\C3_Method.exe
+G:\study\C#\ProgrammingC-5.0\Practices\C3_Method\bin\Debug\C3_Method.pdb
+G:\study\C#\ProgrammingC-5.0\Practices\C3_Method\obj\Debug\Ch3_Method.csprojResolveAssemblyReference.cache
