@@ -1,0 +1,5 @@
+D:\WangCJ\GitProjects\ProgrammingC-5.0\Practices_2008\Generic\bin\Debug\Generic.exe
+D:\WangCJ\GitProjects\ProgrammingC-5.0\Practices_2008\Generic\bin\Debug\Generic.pdb
+D:\WangCJ\GitProjects\ProgrammingC-5.0\Practices_2008\Generic\obj\Debug\ResolveAssemblyReference.cache
+D:\WangCJ\GitProjects\ProgrammingC-5.0\Practices_2008\Generic\obj\Debug\Generic.exe
+D:\WangCJ\GitProjects\ProgrammingC-5.0\Practices_2008\Generic\obj\Debug\Generic.pdb
