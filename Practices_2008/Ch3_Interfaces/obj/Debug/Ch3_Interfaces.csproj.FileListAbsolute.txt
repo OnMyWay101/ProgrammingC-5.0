@@ -3,3 +3,5 @@ D:\WangCJ\GitProjects\ProgrammingC-5.0\Practices_2008\Ch3_Interfaces\bin\Debug\C
 D:\WangCJ\GitProjects\ProgrammingC-5.0\Practices_2008\Ch3_Interfaces\obj\Debug\ResolveAssemblyReference.cache
 D:\WangCJ\GitProjects\ProgrammingC-5.0\Practices_2008\Ch3_Interfaces\obj\Debug\Ch3_Interfaces.exe
 D:\WangCJ\GitProjects\ProgrammingC-5.0\Practices_2008\Ch3_Interfaces\obj\Debug\Ch3_Interfaces.pdb
+G:\study\C#\ProgrammingC-5.0\Practices_2008\Ch3_Interfaces\obj\Debug\Ch3_Interfaces.exe
+G:\study\C#\ProgrammingC-5.0\Practices_2008\Ch3_Interfaces\obj\Debug\Ch3_Interfaces.pdb
