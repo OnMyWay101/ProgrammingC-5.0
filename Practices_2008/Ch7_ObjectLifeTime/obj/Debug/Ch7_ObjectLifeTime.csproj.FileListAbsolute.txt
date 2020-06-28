@@ -1,0 +1,5 @@
+D:\WangCJ\GitProjects\ProgrammingC-5.0\Practices_2008\Ch7_ObjectLifeTime\bin\Debug\Ch7_ObjectLifeTime.exe
+D:\WangCJ\GitProjects\ProgrammingC-5.0\Practices_2008\Ch7_ObjectLifeTime\bin\Debug\Ch7_ObjectLifeTime.pdb
+D:\WangCJ\GitProjects\ProgrammingC-5.0\Practices_2008\Ch7_ObjectLifeTime\obj\Debug\ResolveAssemblyReference.cache
+D:\WangCJ\GitProjects\ProgrammingC-5.0\Practices_2008\Ch7_ObjectLifeTime\obj\Debug\Ch7_ObjectLifeTime.exe
+D:\WangCJ\GitProjects\ProgrammingC-5.0\Practices_2008\Ch7_ObjectLifeTime\obj\Debug\Ch7_ObjectLifeTime.pdb
