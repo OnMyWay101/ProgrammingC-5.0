@@ -8,7 +8,8 @@ namespace Ch5_Collections
         static void Main(string[] args)
         {
             //MyArray.Example_GetCopyright();
-            MyList.Example_Fibonacci();
+            //MyList.Example_Fibonacci();
+            MyDictionary.Exampel_SimpleUse();
         }
     }
 }

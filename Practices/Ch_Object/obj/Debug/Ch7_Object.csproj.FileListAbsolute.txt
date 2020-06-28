@@ -1,0 +1,6 @@
+G:\study\C#\ProgrammingC-5.0\Practices\Ch_Object\bin\Debug\Ch_Object.exe.config
+G:\study\C#\ProgrammingC-5.0\Practices\Ch_Object\bin\Debug\Ch_Object.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Ch_Object\bin\Debug\Ch_Object.pdb
+G:\study\C#\ProgrammingC-5.0\Practices\Ch_Object\obj\Debug\Ch7_Object.csprojResolveAssemblyReference.cache
+G:\study\C#\ProgrammingC-5.0\Practices\Ch_Object\obj\Debug\Ch_Object.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Ch_Object\obj\Debug\Ch_Object.pdb

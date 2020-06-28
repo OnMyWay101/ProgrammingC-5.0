@@ -1,0 +1,6 @@
+G:\study\C#\ProgrammingC-5.0\Practices\Ch6_Inheritance\bin\Debug\Ch6_Inheritance.exe.config
+G:\study\C#\ProgrammingC-5.0\Practices\Ch6_Inheritance\bin\Debug\Ch6_Inheritance.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Ch6_Inheritance\bin\Debug\Ch6_Inheritance.pdb
+G:\study\C#\ProgrammingC-5.0\Practices\Ch6_Inheritance\obj\Debug\Ch6_Inheritance.csprojResolveAssemblyReference.cache
+G:\study\C#\ProgrammingC-5.0\Practices\Ch6_Inheritance\obj\Debug\Ch6_Inheritance.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Ch6_Inheritance\obj\Debug\Ch6_Inheritance.pdb

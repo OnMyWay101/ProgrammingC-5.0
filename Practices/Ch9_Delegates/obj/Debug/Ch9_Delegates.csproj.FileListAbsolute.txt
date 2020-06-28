@@ -1,0 +1,6 @@
+G:\study\C#\ProgrammingC-5.0\Practices\Ch9_Delegates\bin\Debug\Ch9_Delegates.exe.config
+G:\study\C#\ProgrammingC-5.0\Practices\Ch9_Delegates\obj\Debug\Ch9_Delegates.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Ch9_Delegates\obj\Debug\Ch9_Delegates.pdb
+G:\study\C#\ProgrammingC-5.0\Practices\Ch9_Delegates\bin\Debug\Ch9_Delegates.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Ch9_Delegates\bin\Debug\Ch9_Delegates.pdb
+G:\study\C#\ProgrammingC-5.0\Practices\Ch9_Delegates\obj\Debug\Ch9_Delegates.csprojResolveAssemblyReference.cache

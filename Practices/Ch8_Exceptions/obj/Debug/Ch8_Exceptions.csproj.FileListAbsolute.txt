@@ -1,0 +1,6 @@
+G:\study\C#\ProgrammingC-5.0\Practices\Ch8_Exceptions\bin\Debug\Ch8_Exceptions.exe.config
+G:\study\C#\ProgrammingC-5.0\Practices\Ch8_Exceptions\bin\Debug\Ch8_Exceptions.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Ch8_Exceptions\bin\Debug\Ch8_Exceptions.pdb
+G:\study\C#\ProgrammingC-5.0\Practices\Ch8_Exceptions\obj\Debug\Ch8_Exceptions.csprojResolveAssemblyReference.cache
+G:\study\C#\ProgrammingC-5.0\Practices\Ch8_Exceptions\obj\Debug\Ch8_Exceptions.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Ch8_Exceptions\obj\Debug\Ch8_Exceptions.pdb
