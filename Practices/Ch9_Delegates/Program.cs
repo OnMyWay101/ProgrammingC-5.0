@@ -13,7 +13,10 @@ namespace Ch9_Delegates
             //FisrtDelegate.Example_Searching();
             //MovieList.Example_Film();
             //Instance.ThresholdCompare.Example_Combining();
-            LogEvent.Example_ClickEvent();
+            //LogEvent.Example_ClickEvent();
+            //Captured.Example_Caught();
+            //Eventful.Example_Announce();
+            CustomEvent.Example_Use();
             Console.ReadLine();
         }
     }

@@ -55,7 +55,12 @@ namespace Ch9_Delegates
                 {
                     bool result = p(42);
                     Console.WriteLine("The result is:" + result);
-                    if(result)
+                    Console.WriteLine("p.target:" + p.Target.ToString());
+                    Console.WriteLine("p.target type:" + p.Target.GetType().ToString());
+                    Console.WriteLine("p.Method:" + p.Method.ToString());
+                    Console.WriteLine("p.Method type:" + p.Method.GetType().ToString());
+
+                    if (result)
                     {
                         trueCount += 1;
                     }

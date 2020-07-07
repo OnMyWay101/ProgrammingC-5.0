@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B4BFC889-C08C-43BF-AC0C-F8CE87441530}</ProjectGuid>
+    <ProjectGuid>{A04881CC-B224-4F02-8520-C6BDF3391AF8}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Ch9_Delegates</RootNamespace>
-    <AssemblyName>Ch9_Delegates</AssemblyName>
+    <RootNamespace>Ch10_LINQ</RootNamespace>
+    <AssemblyName>Ch10_LINQ</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -34,7 +34,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -43,12 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Captured.cs" />
-    <Compile Include="CustomEvent.cs" />
-    <Compile Include="FisrtDelegate.cs" />
-    <Compile Include="Instance.cs" />
-    <Compile Include="LogEvent.cs" />
-    <Compile Include="MovieList.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -31,4 +31,32 @@ namespace Ch9_Delegates
             Application.Run(form);
         }
     }
+
+    public class Eventful
+    {
+        public event Action<string> Announcement;
+
+        public void Announce(string message)
+        {
+            if(Announcement != null)
+            {
+                Console.WriteLine("Announcement is not null");
+                Announcement(message);
+            }
+            else
+            {
+                Console.WriteLine("Announcement is null");
+
+            }
+        }
+        public static void Example_Announce()
+        {
+            var source = new Eventful();
+            source.Announcement += m => Console.WriteLine("Announcement:" + m);
+            //Console.WriteLine(source.Announcement.GetType().ToString());
+            //Console.WriteLine(source.Announcement.ToString());
+            source.Announce("hello Event!");
+
+        }
+    }
 }
