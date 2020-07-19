@@ -1,0 +1,6 @@
+G:\study\C#\ProgrammingC-5.0\Practices\Ch10_LINQ\bin\Debug\Ch10_LINQ.exe.config
+G:\study\C#\ProgrammingC-5.0\Practices\Ch10_LINQ\bin\Debug\Ch10_LINQ.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Ch10_LINQ\bin\Debug\Ch10_LINQ.pdb
+G:\study\C#\ProgrammingC-5.0\Practices\Ch10_LINQ\obj\Debug\Ch10_LINQ.csprojResolveAssemblyReference.cache
+G:\study\C#\ProgrammingC-5.0\Practices\Ch10_LINQ\obj\Debug\Ch10_LINQ.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Ch10_LINQ\obj\Debug\Ch10_LINQ.pdb

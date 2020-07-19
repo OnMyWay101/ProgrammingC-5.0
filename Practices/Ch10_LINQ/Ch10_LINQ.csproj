@@ -42,8 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CultureExample.cs" />
+    <Compile Include="CustomProvider.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SillyLinqProvider.cs" />
+    <Compile Include="SimpleData.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
