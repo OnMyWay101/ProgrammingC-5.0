@@ -1,0 +1,16 @@
+G:\study\C#\ProgrammingC-5.0\Practices\ReactiveExtension\bin\Debug\ReactiveExtension.exe.config
+G:\study\C#\ProgrammingC-5.0\Practices\ReactiveExtension\bin\Debug\ReactiveExtension.exe
+G:\study\C#\ProgrammingC-5.0\Practices\ReactiveExtension\bin\Debug\ReactiveExtension.pdb
+G:\study\C#\ProgrammingC-5.0\Practices\ReactiveExtension\bin\Debug\System.Reactive.Core.dll
+G:\study\C#\ProgrammingC-5.0\Practices\ReactiveExtension\bin\Debug\System.Reactive.Interfaces.dll
+G:\study\C#\ProgrammingC-5.0\Practices\ReactiveExtension\bin\Debug\System.Reactive.Linq.dll
+G:\study\C#\ProgrammingC-5.0\Practices\ReactiveExtension\bin\Debug\System.Reactive.PlatformServices.dll
+G:\study\C#\ProgrammingC-5.0\Practices\ReactiveExtension\bin\Debug\System.Reactive.Windows.Threading.dll
+G:\study\C#\ProgrammingC-5.0\Practices\ReactiveExtension\bin\Debug\System.Reactive.Core.xml
+G:\study\C#\ProgrammingC-5.0\Practices\ReactiveExtension\bin\Debug\System.Reactive.Interfaces.xml
+G:\study\C#\ProgrammingC-5.0\Practices\ReactiveExtension\bin\Debug\System.Reactive.Linq.xml
+G:\study\C#\ProgrammingC-5.0\Practices\ReactiveExtension\bin\Debug\System.Reactive.PlatformServices.xml
+G:\study\C#\ProgrammingC-5.0\Practices\ReactiveExtension\bin\Debug\System.Reactive.Windows.Threading.xml
+G:\study\C#\ProgrammingC-5.0\Practices\ReactiveExtension\obj\Debug\ReactiveExtension.csprojResolveAssemblyReference.cache
+G:\study\C#\ProgrammingC-5.0\Practices\ReactiveExtension\obj\Debug\ReactiveExtension.exe
+G:\study\C#\ProgrammingC-5.0\Practices\ReactiveExtension\obj\Debug\ReactiveExtension.pdb

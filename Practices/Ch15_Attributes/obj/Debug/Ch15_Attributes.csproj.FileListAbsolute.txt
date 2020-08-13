@@ -1,0 +1,6 @@
+G:\study\C#\ProgrammingC-5.0\Practices\Ch15_Attributes\bin\Debug\Ch15_Attributes.exe.config
+G:\study\C#\ProgrammingC-5.0\Practices\Ch15_Attributes\bin\Debug\Ch15_Attributes.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Ch15_Attributes\bin\Debug\Ch15_Attributes.pdb
+G:\study\C#\ProgrammingC-5.0\Practices\Ch15_Attributes\obj\Debug\Ch15_Attributes.csprojResolveAssemblyReference.cache
+G:\study\C#\ProgrammingC-5.0\Practices\Ch15_Attributes\obj\Debug\Ch15_Attributes.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Ch15_Attributes\obj\Debug\Ch15_Attributes.pdb
