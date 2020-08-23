@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch15_Attributes", "Ch15_Att
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveExtension", "ReactiveExtension\ReactiveExtension.csproj", "{F30E9995-CFE2-4CD4-A042-96010554C0DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch11_Assembles", "Ch11_Assembles\Ch11_Assembles.csproj", "{86CDC479-736E-4B99-84A1-51893DA0CE95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{F30E9995-CFE2-4CD4-A042-96010554C0DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F30E9995-CFE2-4CD4-A042-96010554C0DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F30E9995-CFE2-4CD4-A042-96010554C0DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86CDC479-736E-4B99-84A1-51893DA0CE95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86CDC479-736E-4B99-84A1-51893DA0CE95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86CDC479-736E-4B99-84A1-51893DA0CE95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86CDC479-736E-4B99-84A1-51893DA0CE95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
