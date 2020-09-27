@@ -1,0 +1,6 @@
+G:\study\C#\ProgrammingC-5.0\Practices\Ch16_Stream\bin\Debug\Ch16_Stream.exe.config
+G:\study\C#\ProgrammingC-5.0\Practices\Ch16_Stream\bin\Debug\Ch16_Stream.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Ch16_Stream\bin\Debug\Ch16_Stream.pdb
+G:\study\C#\ProgrammingC-5.0\Practices\Ch16_Stream\obj\Debug\Ch16_Stream.csprojResolveAssemblyReference.cache
+G:\study\C#\ProgrammingC-5.0\Practices\Ch16_Stream\obj\Debug\Ch16_Stream.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Ch16_Stream\obj\Debug\Ch16_Stream.pdb

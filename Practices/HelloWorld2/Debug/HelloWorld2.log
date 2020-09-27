@@ -1,0 +1,9 @@
+﻿  HelloWorld.cpp
+g:\study\c#\programmingc-5.0\practices\helloworld2\helloworld.cpp(17): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+g:\study\c#\programmingc-5.0\practices\helloworld2\helloworld.cpp(19): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+g:\study\c#\programmingc-5.0\practices\helloworld2\helloworld.cpp(23): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“short *”
+g:\study\c#\programmingc-5.0\practices\helloworld2\helloworld.cpp(25): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“short *”
+g:\study\c#\programmingc-5.0\practices\helloworld2\helloworld.cpp(29): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+g:\study\c#\programmingc-5.0\practices\helloworld2\helloworld.cpp(31): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+  HelloWorld2.vcxproj -> G:\study\C#\ProgrammingC-5.0\Practices\Debug\HelloWorld2.exe
+  HelloWorld2.vcxproj -> G:\study\C#\ProgrammingC-5.0\Practices\Debug\HelloWorld2.pdb (Full PDB)

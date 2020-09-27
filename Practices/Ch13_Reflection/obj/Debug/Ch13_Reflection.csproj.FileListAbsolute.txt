@@ -1,0 +1,6 @@
+G:\study\C#\ProgrammingC-5.0\Practices\Ch13_Reflection\bin\Debug\Ch13_Reflection.exe.config
+G:\study\C#\ProgrammingC-5.0\Practices\Ch13_Reflection\bin\Debug\Ch13_Reflection.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Ch13_Reflection\bin\Debug\Ch13_Reflection.pdb
+G:\study\C#\ProgrammingC-5.0\Practices\Ch13_Reflection\obj\Debug\Ch13_Reflection.csprojResolveAssemblyReference.cache
+G:\study\C#\ProgrammingC-5.0\Practices\Ch13_Reflection\obj\Debug\Ch13_Reflection.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Ch13_Reflection\obj\Debug\Ch13_Reflection.pdb
