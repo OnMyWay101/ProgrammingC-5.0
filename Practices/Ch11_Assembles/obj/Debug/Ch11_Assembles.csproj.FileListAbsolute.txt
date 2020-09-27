@@ -4,3 +4,5 @@ G:\study\C#\ProgrammingC-5.0\Practices\Ch11_Assembles\bin\Debug\Ch11_Assembles.p
 G:\study\C#\ProgrammingC-5.0\Practices\Ch11_Assembles\obj\Debug\Ch11_Assembles.csprojResolveAssemblyReference.cache
 G:\study\C#\ProgrammingC-5.0\Practices\Ch11_Assembles\obj\Debug\Ch11_Assembles.exe
 G:\study\C#\ProgrammingC-5.0\Practices\Ch11_Assembles\obj\Debug\Ch11_Assembles.pdb
+G:\study\C#\ProgrammingC-5.0\Practices\Ch11_Assembles\obj\Debug\Ch11_Assembles.MyResource.resources
+G:\study\C#\ProgrammingC-5.0\Practices\Ch11_Assembles\obj\Debug\Ch11_Assembles.csproj.GenerateResource.Cache
