@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Text;
 
 namespace Ch16_Stream
 {
@@ -7,7 +8,7 @@ namespace Ch16_Stream
     {
         static void Main(string[] args)
         {
-            Example_StreamWriter();
+            dcPerson.Example1();
             Console.ReadLine();
         }
 
@@ -27,10 +28,16 @@ namespace Ch16_Stream
 
         static void Example_CodePage()
         {
-            using ()
+            using (var sw = new StreamWriter("Text.txt", false, Encoding.GetEncoding(1252)))
             {
-
+                sw.Write("#100");
             }
+        }
+        static void Example_FileInfo()
+        {
+            var info = new FileInfo(@"Text.txt");
+            Console.WriteLine("{0} ({1} bytes) last modified on {2}",
+                info.FullName, info.Length, info.LastWriteTime);
         }
     }
 }
