@@ -1,0 +1,8 @@
+G:\study\C#\ProgrammingC-5.0\Practices\Ch17_Threading\bin\Debug\Ch17_Threading.exe.config
+G:\study\C#\ProgrammingC-5.0\Practices\Ch17_Threading\bin\Debug\Ch17_Threading.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Ch17_Threading\bin\Debug\Ch17_Threading.pdb
+G:\study\C#\ProgrammingC-5.0\Practices\Ch17_Threading\obj\Debug\Ch17_Threading.csprojResolveAssemblyReference.cache
+G:\study\C#\ProgrammingC-5.0\Practices\Ch17_Threading\obj\Debug\Ch17_Threading.exe
+G:\study\C#\ProgrammingC-5.0\Practices\Ch17_Threading\obj\Debug\Ch17_Threading.pdb
+G:\study\C#\ProgrammingC-5.0\Practices\Ch17_Threading\obj\Debug\Ch17_Threading.Form1.resources
+G:\study\C#\ProgrammingC-5.0\Practices\Ch17_Threading\obj\Debug\Ch17_Threading.csproj.GenerateResource.Cache
