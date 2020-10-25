@@ -4,5 +4,10 @@ G:\study\C#\ProgrammingC-5.0\Practices\Ch17_Threading\bin\Debug\Ch17_Threading.p
 G:\study\C#\ProgrammingC-5.0\Practices\Ch17_Threading\obj\Debug\Ch17_Threading.csprojResolveAssemblyReference.cache
 G:\study\C#\ProgrammingC-5.0\Practices\Ch17_Threading\obj\Debug\Ch17_Threading.exe
 G:\study\C#\ProgrammingC-5.0\Practices\Ch17_Threading\obj\Debug\Ch17_Threading.pdb
-G:\study\C#\ProgrammingC-5.0\Practices\Ch17_Threading\obj\Debug\Ch17_Threading.Form1.resources
 G:\study\C#\ProgrammingC-5.0\Practices\Ch17_Threading\obj\Debug\Ch17_Threading.csproj.GenerateResource.Cache
+G:\study\C#\ProgrammingC-5.0\Practices\Ch17_Threading\obj\Debug\Ch17_Threading.SynchronizationContextForm.resources
+G:\study\C#\ProgrammingC-5.0\Practices\Ch17_Threading\obj\Debug\Tasks2.g.cs
+G:\study\C#\ProgrammingC-5.0\Practices\Ch17_Threading\obj\Debug\Ch17_Threading_MarkupCompile.cache
+G:\study\C#\ProgrammingC-5.0\Practices\Ch17_Threading\obj\Debug\Ch17_Threading_MarkupCompile.lref
+G:\study\C#\ProgrammingC-5.0\Practices\Ch17_Threading\obj\Debug\Tasks2.baml
+G:\study\C#\ProgrammingC-5.0\Practices\Ch17_Threading\obj\Debug\Ch17_Threading.g.resources

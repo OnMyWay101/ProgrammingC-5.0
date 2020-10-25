@@ -16,11 +16,16 @@ namespace Ch17_Threading
             //ThreadTest();
             //TaskThreadPool();
             //DoWork();
+            //Synchronization1.MonitorsAndTheLockKeyWord.MessageQueue<int>.UseMQ(100);
+            //Tasks1.Example17_17.WebGetTask();
             //Console.ReadLine();
 
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            //启动窗口相关代码
+            //Application.EnableVisualStyles();
+            //Application.SetCompatibleTextRenderingDefault(false);
+            //Application.Run(new SynchronizationContextForm());
+            Tasks2 window = new Tasks2();
+            window.Show();
         }
 
         private static void ThreadTest()

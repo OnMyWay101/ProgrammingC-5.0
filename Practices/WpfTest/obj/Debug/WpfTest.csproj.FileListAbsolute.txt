@@ -1,0 +1,13 @@
+G:\study\C#\ProgrammingC-5.0\Practices\WpfTest\bin\Debug\WpfTest.exe.config
+G:\study\C#\ProgrammingC-5.0\Practices\WpfTest\bin\Debug\WpfTest.exe
+G:\study\C#\ProgrammingC-5.0\Practices\WpfTest\bin\Debug\WpfTest.pdb
+G:\study\C#\ProgrammingC-5.0\Practices\WpfTest\obj\Debug\MainWindow.g.cs
+G:\study\C#\ProgrammingC-5.0\Practices\WpfTest\obj\Debug\App.g.cs
+G:\study\C#\ProgrammingC-5.0\Practices\WpfTest\obj\Debug\WpfTest_MarkupCompile.cache
+G:\study\C#\ProgrammingC-5.0\Practices\WpfTest\obj\Debug\WpfTest_MarkupCompile.lref
+G:\study\C#\ProgrammingC-5.0\Practices\WpfTest\obj\Debug\MainWindow.baml
+G:\study\C#\ProgrammingC-5.0\Practices\WpfTest\obj\Debug\WpfTest.g.resources
+G:\study\C#\ProgrammingC-5.0\Practices\WpfTest\obj\Debug\WpfTest.Properties.Resources.resources
+G:\study\C#\ProgrammingC-5.0\Practices\WpfTest\obj\Debug\WpfTest.csproj.GenerateResource.Cache
+G:\study\C#\ProgrammingC-5.0\Practices\WpfTest\obj\Debug\WpfTest.exe
+G:\study\C#\ProgrammingC-5.0\Practices\WpfTest\obj\Debug\WpfTest.pdb
